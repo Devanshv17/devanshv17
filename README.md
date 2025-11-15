@@ -23,42 +23,42 @@ This is a snapshot of the tools and technologies I use, based on my projects and
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" alt="Flutter" width="40"><br><b>Flutter</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40"><br><b>Flutter</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" alt="Dart" width="40"><br><b>Dart</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40"><br><b>Dart</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="40"><br><b>Python</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"><br><b>Python</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" alt="Go" width="40"><br><b>Go</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40"><br><b>Go</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" alt="C++" width="40"><br><b>C++</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"><br><b>C++</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="40"><br><b>JavaScript</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"><br><b>JavaScript</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="httpsG://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" alt="PyTorch" width="40"><br><b>PyTorch</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40"><br><b>PyTorch</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" alt="TensorFlow" width="40"><br><b>TensorFlow</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"><br><b>TensorFlow</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikitlearn.svg" alt="scikit-learn" width="40"><br><b>scikit-learn</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40"><br><b>scikit-learn</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/langchain.svg" alt="LangChain" width="40"><br><b>LangChain</b>
+      <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="LangChain" width="40"><br><b>LangChain</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" width="40"><br><b>React</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"><br><b>React</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" alt="Firebase" width="40"><br><b>Firebase</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40"><br><b>Firebase</b>
     </td>
   </tr>
 </table>
