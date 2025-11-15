@@ -52,12 +52,7 @@ This is a snapshot of the tools and technologies I use, based on my projects and
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40"><br><b>scikit-learn</b>
     </td>
     <td align="center" width="120">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/langgraph.webp">
-        <source media="(prefers-color-scheme: light)" srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/light/langgraph.webp">
-        <img src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/langgraph.webp" alt="LangChain" width="40">
-      </picture>
-      <br><b>LangGraph</b>
+      <img src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/langgraph.webp" alt="LangChain" width="40"><br><b>LangChain</b>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"><br><b>React</b>
@@ -86,7 +81,7 @@ Developed a **Flutter-based mobile app** to track water leakage in rural locatio
 ### **4. Formalizing Natural Language (Project for Wabtec)**
 Implemented a multi-node NLP pipeline in Langgraph to formalize natural language design requirements. Created a model for hallucination detection using semantic similarity scoring.
 
-### **5. Saathi Learning App (Project for Govt. of Odisha)**
+### **5. Saathi Learning App (Project for Government)**
 Developed a gamified learning app in **Flutter** and Firebase, featuring 1000+ questions. Integrated AI-powered, multilingual explanations to enhance the learning experience for underprivileged children.
 
 ---
