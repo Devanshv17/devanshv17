@@ -67,7 +67,6 @@ This is a snapshot of the tools and technologies I use, based on my projects and
 
 ## **Featured Projects**
 
-*(Based on my resume; I recommend pinning these to your profile!)*
 
 ### **1. Genesis AI (On-Device AI Agent)**
 A cross-platform **Flutter app** that deploys the Gemma 3N model for local, offline execution on mobile devices. It enables dynamic creation of AI agents (like travel or email assistants) from user prompts.
