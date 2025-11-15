@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Devansh Verma
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL_HERE/">
-  <img align="left" alt="Devansh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/devanshv17/">
+  <img align="left" alt="Devansh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <br/>
 <br/>
@@ -52,7 +52,7 @@ This is a snapshot of the tools and technologies I use, based on my projects and
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40"><br><b>scikit-learn</b>
     </td>
     <td align="center" width="120">
-      <img src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/langgraph.webp" alt="LangChain" width="40"><br><b>LangChain</b>
+      <img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/68ee190874d0eff38a1a9dd9_Vector.svg" alt="LangChain" width="40"><br><b>LangChain</b>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"><br><b>React</b>
