@@ -52,7 +52,12 @@ This is a snapshot of the tools and technologies I use, based on my projects and
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40"><br><b>scikit-learn</b>
     </td>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="LangChain" width="40"><br><b>LangChain</b>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/langgraph.webp">
+        <source media="(prefers-color-scheme: light)" srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/light/langgraph.webp">
+        <img src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/langgraph.webp" alt="LangChain" width="40">
+      </picture>
+      <br><b>LangGraph</b>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"><br><b>React</b>
