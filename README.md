@@ -6,19 +6,19 @@
 <br/>
 <br/>
 
-[cite_start]I'm a final-year **B.Tech student at IIT Kanpur** [cite: 2][cite_start], majoring in **Mathematics and Scientific Computing**[cite: 2]. I'm passionate about building high-impact technology, from on-device AI agents and quantitative trading models to large-scale mobile applications.
+I'm a final-year **B.Tech student at IIT Kanpur**, majoring in **Mathematics and Scientific Computing**. I'm passionate about building high-impact technology, from on-device AI agents and quantitative trading models to large-scale mobile applications.
 
 I'm currently channeling that passion into building a **stealth startup**.
 
-* 🧠 **ML & Quant:** Building and deploying ML pipelines. [cite_start]Previously a **Quantitative Trading Intern @ Axxela**, where I was the most profitable intern (€2.3k+) and secured a **Pre-Placement Offer (PPO)**[cite: 5, 11].
-* 📱 **Mobile Dev:** Specializing in **Flutter** for cross-platform app development. [cite_start]I've led the solo development of a production app [cite: 15] [cite_start]and built apps for the **Government of India (Jal Jeevan Mission)** [cite: 39] [cite_start]and the **Govt. of Odisha**[cite: 36].
+* 🧠 **ML & Quant:** Building and deploying ML pipelines. Previously a **Quantitative Trading Intern @ Axxela**, where I was the most profitable intern (€2.3k+) and secured a **Pre-Placement Offer (PPO)**.
+* 📱 **Mobile Dev:** Specializing in **Flutter** for cross-platform app development. I've led the solo development of a production app and built apps for the **Government of India (Jal Jeevan Mission)** and the **Govt. of Odisha**.
 * 🚀 **Founder:** Currently building and exploring new ventures in tech.
 
 ---
 
 ## **My Core Tech Stack**
 
-[cite_start]This is a snapshot of the tools and technologies I use, based on my projects and experience[cite: 83, 84, 85, 86].
+This is a snapshot of the tools and technologies I use, based on my projects and experience.
 
 <table>
   <tr>
@@ -69,20 +69,20 @@ I'm currently channeling that passion into building a **stealth startup**.
 
 *(Based on my resume; I recommend pinning these to your profile!)*
 
-### **1. [cite_start]Genesis AI (On-Device AI Agent)** [cite: 29]
-[cite_start]A cross-platform **Flutter app** that deploys the Gemma 3N model for local, offline execution on mobile devices[cite: 30, 31]. [cite_start]It enables dynamic creation of AI agents (like travel or email assistants) from user prompts[cite: 32].
+### **1. Genesis AI (On-Device AI Agent)**
+A cross-platform **Flutter app** that deploys the Gemma 3N model for local, offline execution on mobile devices. It enables dynamic creation of AI agents (like travel or email assistants) from user prompts.
 
-### **2. [cite_start]CWE Matching using LLMs (Project for DRDO)** [cite: 24]
-[cite_start]Utilized Llama3 and RAG to match mobile device vulnerabilities with CWE entries[cite: 24]. [cite_start]Deployed an on-prem solution and achieved 65% accuracy in matching vulnerabilities[cite: 24].
+### **2. CWE Matching using LLMs (Project for DRDO)**
+Utilized Llama3 and RAG to match mobile device vulnerabilities with CWE entries. Deployed an on-prem solution and achieved 65% accuracy in matching vulnerabilities.
 
-### **3. [cite_start]Mobile App for Govt. of India (Jal Jeevan Mission)** [cite: 39]
-[cite_start]Developed a **Flutter-based mobile app** to track water leakage in rural locations[cite: 40]. [cite_start]Implemented a real-time leakage map, a complaint management system, and a **Go backend** with a Postgres database[cite: 40].
+### **3. Mobile App for Govt. of India (Jal Jeevan Mission)**
+Developed a **Flutter-based mobile app** to track water leakage in rural locations. Implemented a real-time leakage map, a complaint management system, and a **Go backend** with a Postgres database.
 
-### **4. [cite_start]Formalizing Natural Language (Project for Wabtec)** [cite: 26]
-[cite_start]Implemented a multi-node NLP pipeline in Langgraph to formalize natural language design requirements[cite: 26]. [cite_start]Created a model for hallucination detection using semantic similarity scoring[cite: 27].
+### **4. Formalizing Natural Language (Project for Wabtec)**
+Implemented a multi-node NLP pipeline in Langgraph to formalize natural language design requirements. Created a model for hallucination detection using semantic similarity scoring.
 
-### **5. [cite_start]Saathi Learning App (Project for Govt. of Odisha)** [cite: 36]
-[cite_start]Developed a gamified learning app in **Flutter** and Firebase, featuring 1000+ questions[cite: 36]. [cite_start]Integrated AI-powered, multilingual explanations to enhance the learning experience for underprivileged children[cite: 37, 38].
+### **5. Saathi Learning App (Project for Govt. of Odisha)**
+Developed a gamified learning app in **Flutter** and Firebase, featuring 1000+ questions. Integrated AI-powered, multilingual explanations to enhance the learning experience for underprivileged children.
 
 ---
 
